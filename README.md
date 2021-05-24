@@ -1,7 +1,7 @@
 # ConwayGOL  
 *2 OOP versions of Conway's Game of Life, written in Python using the pygame library.*  
   
-###Controls  
+### Controls  
 <p align="center">  
   ESC ---------> Quits the application  
   SPACE --------> Starts a new game  
